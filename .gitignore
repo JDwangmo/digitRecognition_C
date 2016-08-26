@@ -1,0 +1,12 @@
+#
+#.idea/digitRecognition.iml
+#.idea/misc.xml
+#.idea/modules.xml
+#.idea/vcs.xml
+#.idea/workspace.xml
+#CMakeLists.txt
+#CNN/
+#README.md
+input_data/
+model/
+output/
