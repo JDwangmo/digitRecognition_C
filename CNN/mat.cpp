@@ -1,11 +1,7 @@
 #include <stdlib.h>
-#include <string.h>
 #include <stdio.h>
-#include <math.h>
 #include <random>
-#include <time.h>
 #include "mat.h"
-#include <iostream>
 
 void printmat(float **mat, nSize mat_size){
 	// 打印矩阵
